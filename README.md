@@ -4,4 +4,4 @@ Bir çanta satıcısı, farklı modellerde çanta tedarik edip satmaktadır. Ted
 
 
 
-İş Kuralları ve İlişkisel Şema için senaryo.docx u inceleyiniz. 
+İş Kuralları ve İlişkisel Şema için  [senaryo.docx](senaryo.docx) u inceleyiniz. 
